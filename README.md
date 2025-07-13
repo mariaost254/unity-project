@@ -9,11 +9,11 @@ This Unity project allows users to navigate a virtual apartment layout, explore 
 
 ## Preview
 
-![Main Menu Preview](PreviewScreens/mainmenu.png)
+![Main Menu Preview](Assets/PreviewScreens/mainmenu.png)
 
-![Floor Plan Preview](PreviewScreens/floorPlanLayout.png)
+![Floor Plan Preview](Assets/PreviewScreens/floorPlanLayout.png)
 
-![360 Room Preview](PreviewScreens/360view.png)
+![360 Room Preview](Assets/PreviewScreens/360view.png)
 
 ## Technologies Used
 
