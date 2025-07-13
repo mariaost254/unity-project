@@ -1,0 +1,85 @@
+.root {
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    background-size: cover;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 100%;
+}
+.fade-out {
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+.content-layout {
+  background-color: rgba(0, 0, 0, 0.8);
+    width: 100%;
+  height: 100%;
+    flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 100%;
+  align-items: center;
+      justify-content: center;
+    align-items: center;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    padding: 24px;
+}
+
+.logo {
+    width: 44px;
+    height: 44px;
+    background-image: resource('logo');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.title {
+    font-size: 45px;
+    color: white;
+    -unity-font-style: bold;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 20px;
+    color: rgb(204, 204, 204);
+    text-align: center;
+    white-space: nowrap;
+}
+
+.start-button {
+        margin-top:7%;
+    padding: 12px 32px;
+    border-radius: 32px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    font-size: 16px;
+    font-style: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.start-button:hover{
+    background-color: rgba(50, 50, 50, 0.6);
+    color: #0090ff;
+}
+
+.footer {
+    font-size: 14px;
+    color: rgb(170, 170, 170);
+    letter-spacing: 2px;
+    text-align: center;
+    margin-top: 12px;
+}

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.47f1
+CRC: 3798504258
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1bae182343fd802f7c9b50861e63b060
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d643d98e0758ea21411fcfff7a622685
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RoomImages/s04/grey_def_yg_first_masterBathroom_stone_l1_full_1.jpg
+- Assets/RoomImages/s04/black_def_yg_first_masterBathroom_stone_l1_full_1.jpg
+- Assets/RoomImages/s04/white_def_yg_first_masterBathroom_stone_l1_full_1.jpg
+- Assets/RoomImages/s04/beige_def_yg_first_masterBathroom_stone_l1_full_1.jpg
+Dependencies: []

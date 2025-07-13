@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.47f1
+CRC: 8940381
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed0f2eeee1e6ff0d38ba531c4485d3c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4b114a31ffe0c26efbbef5a9e16fdb08
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RoomImages/s11/beige_def_yg_first_kidsBedroom_wood_l1_full_1.jpg
+- Assets/RoomImages/s11/black_def_yg_first_kidsBedroom_wood_l1_full_1.jpg
+- Assets/RoomImages/s11/white_def_yg_first_kidsBedroom_wood_l1_full_1.jpg
+- Assets/RoomImages/s11/grey_def_yg_first_kidsBedroom_wood_l1_full_1.jpg
+Dependencies: []

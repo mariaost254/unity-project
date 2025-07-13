@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.47f1
+CRC: 478019010
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e5fac37b5f7c782b7cd0ffea9a08a3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 246ef49e3e46dbf14ec311ef2a9ae391
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RoomImages/s01/white_def_yg_first_livingRoom_stone_l1_naked_2.jpg
+- Assets/RoomImages/s01/black_def_yg_first_livingRoom_wood_l1_full_2.jpg
+- Assets/RoomImages/s01/beige_def_sg_primary_livingRoom_stone_l1_naked_2.jpg
+- Assets/RoomImages/s01/white_def_yg_business_livingRoom_stone_l1_full_1.jpg
+- Assets/RoomImages/s01/beige_def_yg_business_livingRoom_wood_l1_full_1.jpg
+- Assets/RoomImages/s01/grey_def_yg_first_livingRoom_wood_l1_full_1.jpg
+- Assets/RoomImages/s01/beige_def_sg_primary_livingRoom_stone_l1_naked_1.jpg
+- Assets/RoomImages/s01/black_def_yg_first_livingRoom_wood_l1_full_1.jpg
+- Assets/RoomImages/s01/grey_def_yg_first_livingRoom_stone_l1_full_2.jpg
+- Assets/RoomImages/s01/white_def_yg_first_livingRoom_wood_l1_naked_1.jpg
+- Assets/RoomImages/s01/beige_def_yg_first_livingRoom_wood_l1_full_2.jpg
+- Assets/RoomImages/s01/beige_def_yg_business_livingRoom_wood_l1_full_2.jpg
+- Assets/RoomImages/s01/white_def_yg_first_livingRoom_stone_l1_naked_1.jpg
+- Assets/RoomImages/s01/black_def_yg_business_livingRoom_stone_l1_full_1.jpg
+- Assets/RoomImages/s01/beige_def_yg_business_livingRoom_stone_l1_naked_1.jpg
+- Assets/RoomImages/s01/grey_def_yg_first_livingRoom_stone_l1_full_1.jpg
+- Assets/RoomImages/s01/grey_def_yg_first_livingRoom_stone_l1_naked_1.jpg
+- Assets/RoomImages/s01/white_def_yg_business_livingRoom_wood_l1_full_1.jpg
+- Assets/RoomImages/s01/grey_def_yg_first_livingRoom_wood_l1_full_2.jpg
+- Assets/RoomImages/s01/white_def_yg_first_livingRoom_wood_l1_naked_2.jpg
+- Assets/RoomImages/s01/beige_def_yg_business_livingRoom_stone_l1_naked_2.jpg
+- Assets/RoomImages/s01/beige_def_sg_primary_livingRoom_stone_l1_full_2.jpg
+- Assets/RoomImages/s01/grey_def_yg_business_livingRoom_stone_l1_full_1.jpg
+- Assets/RoomImages/s01/black_def_yg_business_livingRoom_wood_l1_full_1.jpg
+- Assets/RoomImages/s01/grey_def_yg_business_livingRoom_wood_l1_full_1.jpg
+- Assets/RoomImages/s01/white_def_yg_business_livingRoom_stone_l1_full_2.jpg
+- Assets/RoomImages/s01/grey_def_yg_business_livingRoom_wood_l1_full_2.jpg
+- Assets/RoomImages/s01/beige_def_yg_first_livingRoom_wood_l1_full_1.jpg
+- Assets/RoomImages/s01/beige_def_sg_primary_livingRoom_wood_l1_naked_2.jpg
+- Assets/RoomImages/s01/beige_def_sg_primary_livingRoom_wood_l1_full_2.jpg
+- Assets/RoomImages/s01/beige_def_yg_business_livingRoom_wood_l1_naked_1.jpg
+- Assets/RoomImages/s01/white_def_yg_first_livingRoom_stone_l1_full_1.jpg
+- Assets/RoomImages/s01/beige_def_sg_primary_livingRoom_stone_l1_full_1.jpg
+- Assets/RoomImages/s01/beige_def_yg_first_livingRoom_wood_l1_naked_2.jpg
+- Assets/RoomImages/s01/beige_def_yg_business_livingRoom_stone_l1_full_1.jpg
+- Assets/RoomImages/s01/beige_def_yg_first_livingRoom_wood_l1_naked_1.jpg
+- Assets/RoomImages/s01/white_def_yg_first_livingRoom_wood_l1_full_2.jpg
+- Assets/RoomImages/s01/black_def_yg_business_livingRoom_wood_l1_full_2.jpg
+- Assets/RoomImages/s01/white_def_yg_business_livingRoom_wood_l1_full_2.jpg
+- Assets/RoomImages/s01/white_def_yg_first_livingRoom_wood_l1_full_1.jpg
+- Assets/RoomImages/s01/grey_def_yg_business_livingRoom_stone_l1_full_2.jpg
+- Assets/RoomImages/s01/black_def_yg_first_livingRoom_wood_l1_naked_1.jpg
+- Assets/RoomImages/s01/black_def_yg_first_livingRoom_wood_l1_naked_2.jpg
+- Assets/RoomImages/s01/beige_def_sg_primary_livingRoom_wood_l1_full_1.jpg
+- Assets/RoomImages/s01/grey_def_yg_first_livingRoom_wood_l1_naked_1.jpg
+- Assets/RoomImages/s01/grey_def_yg_first_livingRoom_stone_l1_naked_2.jpg
+- Assets/RoomImages/s01/beige_def_yg_business_livingRoom_wood_l1_naked_2.jpg
+- Assets/RoomImages/s01/beige_def_sg_primary_livingRoom_wood_l1_naked_1.jpg
+- Assets/RoomImages/s01/beige_def_yg_business_livingRoom_stone_l1_full_2.jpg
+- Assets/RoomImages/s01/white_def_yg_first_livingRoom_stone_l1_full_2.jpg
+Dependencies: []

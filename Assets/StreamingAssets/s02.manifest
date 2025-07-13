@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.47f1
+CRC: 1477240555
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50f8b1b37138d5772a7f4eefd4fc8d6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 37a0c110b49ca169bf0a91278bfcf314
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RoomImages/s02/grey_def_yg_first_balcony_stone_l1_full_1.jpg
+- Assets/RoomImages/s02/black_def_yg_first_balcony_stone_l1_full_1.jpg
+- Assets/RoomImages/s02/white_def_yg_first_balcony_stone_l1_full_1.jpg
+- Assets/RoomImages/s02/beige_def_yg_first_balcony_stone_l1_full_1.jpg
+Dependencies: []

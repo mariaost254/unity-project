@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.47f1
+CRC: 2815047875
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a87d9dfc4a9656f50d5698425fe9aa5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6935320a162a1850d0f12c68b6f9185f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RoomImages/s07/white_def_yg_first_teensBedroom_wood_l1_full_1.jpg
+- Assets/RoomImages/s07/grey_def_yg_first_teensBedroom_wood_l1_full_1.jpg
+- Assets/RoomImages/s07/beige_def_yg_first_gym_wood_l1_full_1.jpg
+- Assets/RoomImages/s07/white_def_yg_first_gym_wood_l1_full_1.jpg
+- Assets/RoomImages/s07/black_def_yg_first_teensBedroom_wood_l1_full_1.jpg
+- Assets/RoomImages/s07/grey_def_yg_first_gym_wood_l1_full_1.jpg
+- Assets/RoomImages/s07/beige_def_yg_first_teensBedroom_wood_l1_full_1.jpg
+- Assets/RoomImages/s07/black_def_yg_first_gym_wood_l1_full_1.jpg
+Dependencies: []

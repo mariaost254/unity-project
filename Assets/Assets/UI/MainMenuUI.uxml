@@ -1,0 +1,17 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Assets/UI/MainMenuStyle.uss?fileID=7433441132597879392&amp;guid=791e63543b16a1e4882dc5ea34a90eb2&amp;type=3#MainMenuStyle" />
+    <ui:VisualElement name="MainPanel" class="root" style="background-image: url(&quot;project://database/Assets/Assets/UI/bg.jpeg?fileID=21300000&amp;guid=839ff3deed4b0ec419f44264e60260ca&amp;type=3#bg&quot;); transition-timing-function: ease-in-out-bounce; transition-duration: 1s; -unity-background-scale-mode: stretch-to-fill; background-position-y: center 0; background-position-x: center 0; -unity-slice-type: sliced; align-self: auto; flex-grow: 1;">
+        <ui:VisualElement class="content-layout" style="flex-grow: 1;">
+            <ui:VisualElement class="content">
+                <ui:Image class="logo" style="background-image: url(&quot;project://database/Assets/Assets/UI/logo.png?fileID=21300000&amp;guid=24166d32cdc8a464b8281210fa5c1c84&amp;type=3#logo&quot;); background-color: rgba(255, 255, 255, 0); flex-shrink: 0;" />
+                <ui:Label text="HIWAY" class="title" />
+                <ui:Label text="Experience the future of home viewing with our immersive 360°" class="subtitle" />
+                <ui:Label text="apartment tour technology" class="subtitle" />
+                <ui:Button name="start-button" class="start-button" style="cursor: initial;">
+                    <ui:Label text="Start Your Tour  →" />
+                </ui:Button>
+                <ui:Label text="INTERACTIVE • CUSTOMIZABLE • FLEXIABLE" class="footer" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

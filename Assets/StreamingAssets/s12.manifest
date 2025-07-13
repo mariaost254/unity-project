@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.47f1
+CRC: 524596589
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35f7368f53b5e2b0914a0951c251ec45
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cf10217be60f817f7cc401bf2b5d63d0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RoomImages/s12/grey_def_yg_first_roofTop_stone_l1_full_1.jpg
+- Assets/RoomImages/s12/black_def_yg_first_roofTop_stone_l1_full_2.jpg
+- Assets/RoomImages/s12/white_def_yg_first_roofTop_stone_l1_full_1.jpg
+- Assets/RoomImages/s12/white_def_yg_first_roofTop_stone_l1_full_2.jpg
+- Assets/RoomImages/s12/beige_def_yg_first_roofTop_stone_l1_full_1.jpg
+- Assets/RoomImages/s12/grey_def_yg_first_roofTop_stone_l1_full_2.jpg
+- Assets/RoomImages/s12/black_def_yg_first_roofTop_stone_l1_full_1.jpg
+- Assets/RoomImages/s12/beige_def_yg_first_roofTop_stone_l1_full_2.jpg
+Dependencies: []

@@ -1,0 +1,55 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Assets/UI/RoomViewStyle.uss?fileID=7433441132597879392&amp;guid=c8514b18dc3145e49bcb5fea1c3aab76&amp;type=3#RoomViewStyle" />
+    <ui:VisualElement class="container" style="background-color: rgba(0, 0, 0, 0);">
+        <ui:VisualElement name="VisualElement" class="top-bar" style="background-color: rgba(0, 0, 0, 0.63);">
+            <ui:Button text="Back to Floor Plan" name="back-btn" class="back-button" style="background-color: rgba(17, 17, 17, 0.63);" />
+            <ui:Label text="360° View" name="title" class="room-view-label" style="height: 31px;" />
+            <ui:Label text="360° View - Drag to explore" class="view-label" style="height: 30px;" />
+        </ui:VisualElement>
+        <ui:VisualElement class="main-view">
+            <ui:VisualElement class="room-image-view" style="background-color: rgba(255, 1, 1, 0); -unity-slice-type: sliced;" />
+            <ui:VisualElement class="room-controls-panel" style="background-color: rgba(18, 18, 18, 0.71); align-items: stretch; padding-top: 10px; padding-bottom: 10px;">
+                <ui:Label text="Room Controls" class="title" />
+                <ui:Label text="Customize your viewing experience" class="subtitle" />
+                <ui:VisualElement style="flex-grow: 1; align-items: stretch; justify-content: flex-start; align-content: center;">
+                    <ui:VisualElement name="color" class="function-container" style="background-color: rgba(101, 101, 101, 0.57);">
+                        <ui:VisualElement class="function-label">
+                            <ui:Label text="Color&#10;" name="Label" class="function-title" />
+                        </ui:VisualElement>
+                        <ui:DropdownField class="function-dropdown" />
+                    </ui:VisualElement>
+                    <ui:VisualElement name="designer" class="function-container" style="background-color: rgba(101, 101, 101, 0.57);">
+                        <ui:VisualElement class="function-label">
+                            <ui:Label text="Designer" name="Label" class="function-title" />
+                        </ui:VisualElement>
+                        <ui:DropdownField class="function-dropdown" />
+                    </ui:VisualElement>
+                    <ui:VisualElement name="price" class="function-container" style="background-color: rgba(101, 101, 101, 0.57);">
+                        <ui:VisualElement class="function-label">
+                            <ui:Label text="Price" name="Label" class="function-title" />
+                        </ui:VisualElement>
+                        <ui:DropdownField class="function-dropdown" />
+                    </ui:VisualElement>
+                    <ui:VisualElement name="floor" class="function-container" style="background-color: rgba(101, 101, 101, 0.57);">
+                        <ui:VisualElement class="function-label">
+                            <ui:Label text="Floor" name="Label" class="function-title" />
+                        </ui:VisualElement>
+                        <ui:DropdownField class="function-dropdown" />
+                    </ui:VisualElement>
+                    <ui:VisualElement name="furnishing" class="function-container" style="background-color: rgba(101, 101, 101, 0.57);">
+                        <ui:VisualElement class="function-label">
+                            <ui:Label text="Furnishing" name="Label" class="function-title" />
+                        </ui:VisualElement>
+                        <ui:DropdownField class="function-dropdown" />
+                    </ui:VisualElement>
+                    <ui:VisualElement name="viewpoint" class="function-container" style="background-color: rgba(101, 101, 101, 0.57);">
+                        <ui:VisualElement class="function-label">
+                            <ui:Label text="Viewpoint" name="Label" class="function-title" />
+                        </ui:VisualElement>
+                        <ui:DropdownField class="function-dropdown" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
